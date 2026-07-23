@@ -373,3 +373,5 @@ If you found this project useful,
 ---
 
 ## Made with ❤️ using React, FastAPI, MongoDB & Gemini AI
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-29 at 12 12 39" src="https://github.com/user-attachments/assets/75506261-e540-4cdd-b718-cc9b10cb0895" />
+
