@@ -1,0 +1,51 @@
+# Frontend
+frontend/node_modules/
+
+# Backend
+backend/venv/
+backend/__pycache__/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+backend/venv/Lib
+backend/venv
+
+.env
+*.key
+node_modules/
+__pycache__/
+
+
+# Virtual Environment
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Google Service Account Keys
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# VS Code
+.vscode/

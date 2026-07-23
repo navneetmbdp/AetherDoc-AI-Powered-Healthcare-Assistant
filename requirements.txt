@@ -1,0 +1,45 @@
+# -------------------------
+# FastAPI backend
+# -------------------------
+fastapi==0.110.0
+uvicorn==0.27.1
+
+# -------------------------
+# Environment variables
+# -------------------------
+python-dotenv==1.0.1
+pydantic-settings==2.2.1
+
+# -------------------------
+# Google Gemini (Generative AI)
+# -------------------------
+google-generativeai==0.3.2
+gTTS==2.5.4
+Pillow==10.4.0
+
+# -------------------------
+# HTTP requests (YouTube + Maps APIs)
+# -------------------------
+requests==2.31.0
+
+# -------------------------
+# Optional (recommended)
+# -------------------------
+loguru==0.7.2
+
+
+fastapi
+uvicorn
+motor
+python-jose
+passlib[bcrypt]
+python-dotenv
+
+numpy
+librosa
+SpeechRecognition
+ultralytics
+tensorflow
+pydub
+moviepy
+opencv-python-headless
